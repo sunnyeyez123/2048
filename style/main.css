@@ -402,7 +402,7 @@ hr {
     font-weight: bold;
     z-index: 10;
     font-family: 'Source Code Pro', Courier;
-    font-size: 16px; 
+    font-size: 0px; 
     color: #354b59;}
   .tile.tile-2 .tile-inner {
     background: url('../tile-sets/robots/2.png');
